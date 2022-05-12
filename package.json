@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/Aashish28/generator-ui5-euge#readme",
   "dependencies": {
+    "@sapui5/generator-sapui5-templates": "^1.71.6",
     "chalk": "^5.0.1",
-    "generator-template-ui5-project": "github:ui5-community/generator-ui5-project#1cee13b82077727d0d8490e0786f692f3a8351ae",
     "yeoman-generator": "^5.6.1",
     "yosay": "^2.0.2"
   }
