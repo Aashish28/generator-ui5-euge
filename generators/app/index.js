@@ -12,7 +12,7 @@ module.exports = class extends Generator {
         }
 
         // we want to overwrite files from the community app temlate so this generator needs to run first
-        this.composeWith(require.resolve('generator-sapui5-templates/generators/app'), {
+        this.composeWith(require.resolve('generator-template-ui5-project/generators/app'), {
             embedded: true,
         });
         //this.composeWith(require.resolve('../customizer'));
