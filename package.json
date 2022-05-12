@@ -14,7 +14,11 @@
     "url": "https://github.com/Aashish28/generator-ui5-euge.git"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "sapui5",
+    "openui5",
+    "ui5",
+    "project-template"
   ],
   "author": "Ashish",
   "license": "ISC",
