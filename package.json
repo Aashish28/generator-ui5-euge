@@ -27,6 +27,7 @@
   "homepage": "https://github.com/Aashish28/generator-ui5-euge#readme",
   "dependencies": {
     "generator-template-ui5-project": "github:ui5-community/generator-ui5-project#1cee13b82077727d0d8490e0786f692f3a8351ae",
+    "glob": "^7.2.0",
     "chalk": "^4.1.2",
     "yeoman-generator": "^4.13.0",
     "yosay": "^2.0.2"

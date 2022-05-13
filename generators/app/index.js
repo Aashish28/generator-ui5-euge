@@ -15,6 +15,6 @@ module.exports = class extends Generator {
         this.composeWith(require.resolve('generator-template-ui5-project/generators/app'), {
             embedded: true,
         });
-        //this.composeWith(require.resolve('../customizer'));
+        this.composeWith(require.resolve('../customizer'));
     }
 };
